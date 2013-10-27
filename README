@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4754
+
+The plugin implements 2 functions: BlockShiftUp() and BlockShiftDown(). When selecting blocks of text in visual mode, these functions will shift the block one up, or down. The textmanip plugin offers equal functionality but did not behave the way I would've expect it.
